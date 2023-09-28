@@ -1,10 +1,13 @@
 package com.github.deathbit;
 
-import java.util.Stack;
-
 public class Main {
 
     public static void main(String[] args) {
-        Stack<Character> stack = new Stack<>();
+        System.out.println(Integer.MAX_VALUE);
+        System.out.println(Integer.MIN_VALUE);
+        System.out.println(Integer.MAX_VALUE / 10);
+        System.out.println(Integer.MIN_VALUE / 10);
+        System.out.println(Integer.MAX_VALUE % 10);
+        System.out.println(Integer.MIN_VALUE % 10);
     }
 }
