@@ -1,4 +1,4 @@
-package com.github.deathbit.leetcode.solutions.common;
+package com.github.deathbit.leetcode.common;
 
 /**
  * 解法一：

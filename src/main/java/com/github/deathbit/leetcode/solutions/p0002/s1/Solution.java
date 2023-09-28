@@ -1,6 +1,6 @@
 package com.github.deathbit.leetcode.solutions.p0002.s1;
 
-import com.github.deathbit.leetcode.solutions.common.ListNode;
+import com.github.deathbit.leetcode.common.ListNode;
 
 /**
  * 解法一：模拟法

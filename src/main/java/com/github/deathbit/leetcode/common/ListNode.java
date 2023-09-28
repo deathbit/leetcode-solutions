@@ -1,4 +1,4 @@
-package com.github.deathbit.leetcode.solutions.common;
+package com.github.deathbit.leetcode.common;
 
 public class ListNode {
     public int val;
