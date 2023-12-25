@@ -3,6 +3,7 @@ package com.github.deathbit;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println('9' - '0');
+        String s = "123@456@8_2222";
+        System.out.println(s.substring(0, s.lastIndexOf("@")));
     }
 }
